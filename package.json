@@ -1,9 +1,0 @@
-{
-  "name": "demo",
-  "version": "0.0.1",
-  "description": "gulp-demo-test",
-  "license": "MIT",
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  }
-}
